@@ -4,5 +4,5 @@
 Projeto desenvolvido para filtrar sentimentos de comentários.
 
 Link do projeto:
-https://text-filter.vercel.app
+https://text-filter-lgabrielf.vercel.app/
 
