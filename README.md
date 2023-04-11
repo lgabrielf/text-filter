@@ -1,3 +1,4 @@
+
 # Acesso ao filtro de comentários
 
 Projeto desenvolvido para filtrar sentimentos de comentários.
